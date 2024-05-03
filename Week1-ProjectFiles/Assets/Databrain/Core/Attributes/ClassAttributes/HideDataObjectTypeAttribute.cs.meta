@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: daeb450b4ef8024499043dd1bc5b016f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244557
+  packageName: Databrain - Ultimate game data framework
+  packageVersion: 1.3.0
+  assetPath: Assets/Databrain/Core/Attributes/ClassAttributes/HideDataObjectTypeAttribute.cs
+  uploadId: 658985

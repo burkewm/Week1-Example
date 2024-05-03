@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed8b33e7e076b444a8acfd40c96aa766
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244557
+  packageName: Databrain - Ultimate game data framework
+  packageVersion: 1.3.0
+  assetPath: Assets/Databrain/_Demos/02_Events/Data/EventsDemoData.asset
+  uploadId: 658985
